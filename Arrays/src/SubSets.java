@@ -4,7 +4,7 @@ import java.util.List;
 
 public class SubSets {
     public static void main(String[] args) {
-        int[] arr = {1,2,2,2,3,4,12,1};
+        int[] arr = {9,1,4,7,3,-1,0,5,8,-1,6};
         List<List<Integer>> ans = subsetdup((arr));
         for(List<Integer> list : ans){
             System.out.println(list);

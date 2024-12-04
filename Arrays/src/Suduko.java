@@ -1,4 +1,4 @@
-public class LeetCode_37 {
+public class Suduko {
     public static void main(String[] args) {
         int[][] board = {
                 {0,6,2,0,0,7,5,8,3},

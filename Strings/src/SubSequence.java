@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class SubSequence {
     public static void main(String[] args) {
-        System.out.println(subsequence2("abcd",""));
+        System.out.println(subsequence2("pwwkew",""));
 
     }
 

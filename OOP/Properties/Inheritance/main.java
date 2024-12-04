@@ -1,5 +1,7 @@
 package OOP.Properties.Inheritance;
 
+import OOP.access.A;
+
 public class main {
     public static void main(String[] args) {
         Box box1 = new Box(6,5,7);
@@ -23,5 +25,7 @@ public class main {
 
         System.out.println(defaultBox.w + " " + defaultBox.density);
 
+        A a = new A(45,"Varun");
+        a.getNum();
     }
 }
